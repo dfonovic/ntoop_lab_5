@@ -1,4 +1,4 @@
-package hr.fer.oop.inheritance_polymorphism;
+package inheritance_polymorphism;
 
 public class Cloth extends Item {
 	private double size;

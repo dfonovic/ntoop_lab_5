@@ -1,4 +1,4 @@
-package hr.fer.oop.inheritance_polymorphism;
+package inheritance_polymorphism;
 
 public abstract class Item {	
 	private String sku; //Stock Keeping Unit / ProductNumber
